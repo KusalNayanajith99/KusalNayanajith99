@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ASP.NET , Flutter, Angular , React**
 
-- 👨‍💻 All of my projects are available at [https://kusalnayanajith.tech/](https://kusalnayanajith.tech/)
+- 👨‍💻 All of my projects are available at [https://kusalnayanajith.netlify.app](https://kusalnayanajith.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@kusalnayanajith88](https://medium.com/@kusalnayanajith88)
 
