@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalnayanajith99&label=Profile%20views&color=0e75b6&style=flat" alt="kusalnayanajith99" /> </p>
 
-- 🔭 I’m currently working on [Vehicle Valuation and Buying and Selling System (Miraculerz)](https://dev.azure.com/Miraculerz/vvs-business-logics)
+- 🔭 I’m currently working on [Production-ReadyPatient ManagementSystemwithMicroservices](https://github.com/KusalNayanajith99/Patient-Management_System)
 
-- 🌱 I’m currently learning **ASP.NET , Flutter, Angular , React**
+- 🌱 I’m currently learning **Springboot, React, AWS, ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://kusalnayanajith.netlify.app](https://kusalnayanajith.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/@kusalnayanajith88](https://medium.com/@kusalnayanajith88)
 
 - 📫 How to reach me **kusalnayanajith88@gmail.com**
 
