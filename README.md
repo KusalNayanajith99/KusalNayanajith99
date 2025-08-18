@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Kusal Nayanajith</h1>
-<h3 align="center">I am an IT undergraduate who is enthusiastic, passionate and self motivated to achieve my goals. Seeking a new opportunities in the IT industry as a software engineeR.</h3>
+<h3 align="center">I am an IT undergraduate who is enthusiastic, passionate and self motivated to achieve my goals. Seeking a new opportunities in the IT industry as a software engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/WeirdPoliteAntelope-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalnayanajith99&label=Profile%20views&color=0e75b6&style=flat" alt="kusalnayanajith99" /> </p>
